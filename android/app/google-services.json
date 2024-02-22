@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "420708588564",
+    "project_id": "wallp-6aff9",
+    "storage_bucket": "wallp-6aff9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420708588564:android:48d2a6edabeb89baa9db01",
+        "android_client_info": {
+          "package_name": "com.example.fire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDWQcRJL5jXuZSla_0ledIogYFTlB8GGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
